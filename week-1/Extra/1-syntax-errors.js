@@ -9,9 +9,8 @@ return "Hello, my name is " + name +"and I am "+ age + "years old";
 
 function getTotal(a, b) {
     total = a + b;
-
     // Use string interpolation here
-    return "The total is %{total}"
+    return "The total is "+total
 }
 
 /* ======= TESTS - DO NOT MODIFY =====
