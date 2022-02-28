@@ -5,7 +5,8 @@ function trimWord(word) {
 }
 
 function getWordLength(word) {
-  return word.length()
+  const length = word.length()
+  return length
 }
 
 function multiply(a, b, c) {

@@ -12,7 +12,9 @@ function s(w1, w2) {
 
 function concatenate(firstWord, secondWord, thirdWord) {
   // Write the body of this function to concatenate three words together.
+  const Fusion = firstWord + secondWord + thirdWord
   // Look at the test case below to understand what this function is expected to return.
+  return Fusion
 }
 
 /* ======= TESTS - DO NOT MODIFY =====
