@@ -3,7 +3,7 @@ function State_of_mind(Felling) {
     return "Good job you are doing GREAT!";
   }
   if (Felling === "sad") {
-    return "Every cloud 🌧️  has a silver lining ⛅";
+    return "Every cloud 🌧️ has a silver lining ⛅";
   }
   if (typeof Felling === Number) {
     return "Beep beep boop 🤖";

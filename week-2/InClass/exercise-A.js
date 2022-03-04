@@ -2,8 +2,8 @@
 
 ("hello");
 
-let favouriteColour = "purple";
+let favoriteColour = "purple";
 
-favouriteColour;
+favoriteColour;
 
-console.log(favouriteColour);
+console.log(favoriteColour);

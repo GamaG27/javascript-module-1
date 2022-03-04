@@ -6,7 +6,7 @@ function Use(Usr, Usr_type) {
   if (Urs_type === "Admin" || Usr_type === "Manager") {
     return "Username Valid, have a great day " + Usr + " !😃";
   } else {
-    return "Username invalid. /n Try again";
+    return "Username invalid. Try again";
   }
 }
 
