@@ -9,6 +9,15 @@
 var name = "Daniel";
 var danielsRole = "mentor";
 
+function Dan(params) {
+  if (danielsRole === "mentor") {
+    return "Hi, I'm " + name + ", I'm a mentor";
+  }
+  if (danielRole === "student") {
+    return "Hi, I'm " + name + ", I'm a student";
+  }
+}
+
 /* 
 EXPECTED RESULT
 ---------------
